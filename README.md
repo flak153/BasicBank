@@ -70,7 +70,7 @@ BasicBank/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/bank-api.git
+   git clone https://github.com/flak153/BasicBank.git
    cd bank-api
    ```
 
